@@ -12,5 +12,5 @@ import java.util.Optional;
 
 @Component
 public class BookDAO  {
-
+  //Здесь будут лежать специфические запросы к БД (с помощью SQL)
 }

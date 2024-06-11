@@ -1,2 +1,2 @@
 # javaProgect2
-Проект - Библиотека с использованием Spring, Hibernate, JPA, PostgreSQL
+Проект на Spring с использованием Hibernate и Spring Data JPA, PostgreSQL.
